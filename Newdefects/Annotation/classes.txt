@@ -1,0 +1,9 @@
+FoldMark
+GrowthMark
+Scar
+Stain
+Hole
+GrainOff
+LooseGrain
+Pinhole
+NonDefective
